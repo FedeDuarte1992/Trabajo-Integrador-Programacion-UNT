@@ -17,6 +17,8 @@ Este trabajo práctico implementa un juego de preguntas, desarrollado con Python
 3. Observá cómo se aplica el algoritmo después de cada respuesta correcta.
 
 ---
+## Link al video 
+https://youtu.be/9IZs2dSqEnM
 
 Trabajo realizado por: **Natalia Córdoba y Federico Duarte**  
 Materia: **Programación I - UTN**
